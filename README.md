@@ -30,6 +30,6 @@ Building Android products, improving my open-source portfolio, and working on re
 
 ## Connect
 
-- LinkedIn: add your LinkedIn URL here
-- X: add your X profile URL here
-- Portfolio: add your portfolio URL here
+- LinkedIn: www.linkedin.com/in/devinder-singh-jhinjer
+- X: https://x.com/DevinderBuilds
+- Portfolio: https://devinder33.github.io/devinderjhinjer.github.io/
